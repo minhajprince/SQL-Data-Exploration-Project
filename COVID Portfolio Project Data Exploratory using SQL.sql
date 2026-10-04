@@ -1,5 +1,4 @@
 select * from CovidDeaths
-r
 order by 3,4
 
 --select * from CovidVaccinations
