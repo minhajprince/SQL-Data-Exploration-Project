@@ -77,6 +77,6 @@ Microsoft SQL Server, SQL Server Management Studio (SSMS), T-SQL, Excel
 ## Author
 
 **Minhaj Khan**
-Data Analyst | SQL · Power BI · Excel
+Data Analyst | SQL · Power BI · databricks · Azure · Excel · Python
 
 [LinkedIn](https://www.linkedin.com/in/minhaj-khan/) · [Portfolio](https://github.com/minhajprince)
